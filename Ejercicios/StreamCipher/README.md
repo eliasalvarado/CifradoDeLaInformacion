@@ -18,7 +18,7 @@ Para esos fines se implementó:
     - Generación de Keystream pseudoaleatoreo con el uso de una semilla
     - Cifrado y descifrado utilizando keystream
 
-* https://github.com/eliasalvarado/CifradoDeLaInformacion/tree/main/Ejercicios/EjercicioCriptografia
+* https://github.com/eliasalvarado/CifradoDeLaInformacion/tree/main/Ejercicios/StreamCipher
 
 
 ## 📦 Dependencias
