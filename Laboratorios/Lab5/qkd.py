@@ -1,3 +1,5 @@
+# Recurso en: https://github.com/eliasalvarado/CifradoDeLaInformacion/tree/main/Laboratorios/Lab5
+
 import random
 import pandas as pd
 from tabulate import tabulate
