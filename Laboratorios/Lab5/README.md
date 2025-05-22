@@ -24,7 +24,7 @@ El ejercicio se desarrolló en un archivo de Python ejecutable desde cualquier e
 - Generación de una clave final segura basada en las coincidencias.
 
 ## 💻 Simulación
-[![Watch the video]](https://github.com/eliasalvarado/CifradoDeLaInformacion/blob/main/Laboratorios/Lab5/Lab5-CI.mp4)
+[Simulación](https://github.com/eliasalvarado/CifradoDeLaInformacion/blob/main/Laboratorios/Lab5/Lab5-CI.mp4)
 
 
 ## 📦 Dependencias
